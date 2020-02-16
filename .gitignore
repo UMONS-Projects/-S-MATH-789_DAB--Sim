@@ -84,11 +84,18 @@ lint/outputs/
 lint/tmp/
 # lint/reports/
 
-# Other
+# Eclipse
 /target/
 .classpath
 .project
 .settings/
 
-# All vpp.bak_**** files
+# Temp files
+*.tmp
+
+# Visual Paradigm
+*.vpp.lck
 *.vpp.bak*
+
+# Microsoft Word
+*/~$*.docx
