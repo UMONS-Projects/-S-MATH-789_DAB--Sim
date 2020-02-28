@@ -86,6 +86,7 @@ lint/tmp/
 
 # Eclipse
 /target/
+.metadata/
 .classpath
 .project
 .settings/
